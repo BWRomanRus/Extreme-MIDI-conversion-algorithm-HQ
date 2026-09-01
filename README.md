@@ -6,7 +6,7 @@ An extreme MIDI conversion algorithm has been created. Please contact me regardi
 </b>
 
 
-| Результат (MIDI) |Оригинальный аудиофайл (Audio)|
-| :--- | :--- |
-| [🎹 "В тишине" HQ WITH VOCAL.mid](./A%20Black%20And%20White%20-%20В%20тишине.mid) |[🎵 В тишине original.wav](./A%20Black%20And%20White%20-%20В%20тишине.wav)| 
-| [🎹 "Солнце в руках" HQ WITH VOCAL.mid](./A%20Black%20And%20White%20-%20Солнце%20в%20руках.mid) |[🎵 Солнце в руках original.wav](./A%20Black%20And%20White%20-%20Солнце%20в%20руках.wav)| 
+| Результат (MIDI) |Результат (MIDI-compressed) | Оригинальный аудиофайл (Audio)|
+| :--- | :--- | :--- |
+| [🎹 "В тишине" HQ WITH VOCAL.mid](./A%20Black%20And%20White%20-%20В%20тишине.mid) | [🎹 "В тишине" HQ WITH VOCAL(compressed).mid](./A%20Black%20And%20White%20-%20В%20тишине(Compressed).mid) | [🎵 В тишине original.wav](./A%20Black%20And%20White%20-%20В%20тишине.wav)| 
+| [🎹 "Солнце в руках" HQ WITH VOCAL.mid](./A%20Black%20And%20White%20-%20Солнце%20в%20руках.mid) | [🎹 "Солнце в руках" HQ WITH VOCAL(compressed).mid](./A%20Black%20And%20White%20-%20Солнце%20в%20руках(compressed).mid) | [🎵 Солнце в руках original.wav](./A%20Black%20And%20White%20-%20Солнце%20в%20руках.wav)| 
